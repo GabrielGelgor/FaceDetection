@@ -1,4 +1,4 @@
-# iot-assignment-2-GabrielGelgor
+# Embedded assignment 2, Gabriel Gelgor
 ## Installing Dependencies:
 - pip3 --no-cache-dir install -r requirements.txt
 
